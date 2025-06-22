@@ -40,6 +40,12 @@
 ###
 
 <div align="center">
+  <img height="400" src="https://raw.githubusercontent.com/Kazuma969/Kazuma969/main/sertifikat-inacomp.jpg" alt="Sertifikat INA COMP"  />
+</div>
+
+###
+
+<div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
